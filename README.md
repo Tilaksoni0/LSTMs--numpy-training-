@@ -1,6 +1,6 @@
-# LSTM From Scratch — NumPy Implementation + Mechanistic Interpretability
+# LSTM From Scratch  NumPy Implementation 
 
-A character-level LSTM implemented entirely from scratch in NumPy — forward pass, manual backpropagation through time across all four gates, AdaGrad training — with no autograd anywhere. Trained on tinyshakespeare, then probed to find out what individual neurons inside it actually learned.
+A character-level LSTM implemented entirely from scratch in NumPy — forward pass, manual backpropagation through time across all four gates, AdaGrad training ,  with no autograd anywhere. Trained on tinyshakespeare, then probed to find out what individual neurons inside it actually learned.
 
 ## What this is
 
